@@ -18,7 +18,12 @@ a {
     color: white;
 }
 .clean-list {
+    display: flex;
+    justify-content: space-between;
     list-style: none;
-    padding: 0;
+    padding: 2em;
     margin: 0;
+}
+.item {
+    
 }
