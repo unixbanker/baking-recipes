@@ -11,6 +11,8 @@ body {
 }
 h1 {
     text-align: center;
+    margin: 0;
+    padding: 1rem;
 }
 a {
     text-decoration: none;
@@ -52,5 +54,8 @@ a {
     background-color: #778DA9;
 }
 .recipe-block {
-    padding: 2rem;
+    padding: 2rem 0;
+}
+p {
+    margin: 0;
 }
