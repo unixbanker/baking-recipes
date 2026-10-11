@@ -4,7 +4,7 @@ html {
 }
 body {
     margin: auto;
-    padding: 0;
+    padding: 0 0 2rem 0;
     width: 80%;
     background-color: #415a77;
     color: white;
